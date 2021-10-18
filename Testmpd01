@@ -91,7 +91,7 @@ https://vstv.broadpeak-aas.com/live/prod_paramount_network_fps/prod_paramount_ne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000226&SessionId=728FEE539095099D&Ticket=1AF6FB5CA45B992A
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vstv.broadpeak-aas.com/live/prod_paramount_network_fps/prod_paramount_network_fps.isml/prod_paramount_network_fps.mpd
+https://vstv.broadpeak-aas.com/live/prod_mezzo_live_fps/prod_mezzo_live_fps.isml/prod_mezzo_live_fps.mpd
 
 
 
