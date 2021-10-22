@@ -15,3 +15,13 @@ https://ottlivevng.kplus.vn/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=xxx&Ticket=xxx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="ACE",Love Nature
+acestream://93bcded0a828284d324db4d3d6ab9e710a4ba555
+
+#EXTINF:-1 group-title="ACE",Love Nature
+http://127.0.0.1:8621/ace/getstream?id=93bcded0a828284d324db4d3d6ab9e710a4ba555
