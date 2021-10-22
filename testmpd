@@ -19,6 +19,8 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 
 
 
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="ACE",VTV6 FPT
+acestream://e2f68dc6f9a3a17cef317276d38153351837db99
 
 #EXTINF:-1 group-title="ACE",Love Nature
 acestream://93bcded0a828284d324db4d3d6ab9e710a4ba555
